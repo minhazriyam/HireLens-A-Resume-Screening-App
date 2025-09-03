@@ -1,8 +1,12 @@
-# HireLens-A-Resume-Screening-App
+# HireLens : A Resume Screening App
 
 This project can help recruiters and hiring managers **filter out resumes (CVs)** by automatically matching them against a given **job description**. Instead of going through hundreds of resumes manually, the system highlights the **top 3 most relevant candidates** based on textual similarity.  
 
 ---
+
+## Live Demo
+
+https://github.com/user-attachments/assets/41ad5638-ba3d-443d-b8c8-94953ddf1cb8
 
 ## Features  
 -  Upload multiple resumes (PDF, DOCX, TXT supported).  
