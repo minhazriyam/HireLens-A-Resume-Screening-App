@@ -5,8 +5,7 @@ This project can help recruiters and hiring managers **filter out resumes (CVs)*
 ---
 
 ## Live Demo
-
-https://github.com/user-attachments/assets/41ad5638-ba3d-443d-b8c8-94953ddf1cb8
+https://github.com/user-attachments/assets/83bc3352-2b4f-4a64-933b-cdca821fd008
 
 ## Features  
 -  Upload multiple resumes (PDF, DOCX, TXT supported).  
